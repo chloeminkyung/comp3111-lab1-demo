@@ -1,4 +1,6 @@
-## COMP3111 Lab 1
+### COMP3111 Lab 1
 
-### Name: Minkyung Chloe Kim
-### Student ID: 20373348
+~~~
+Name: Minkyung Chloe Kim
+Student ID: 20373348
+~~~
